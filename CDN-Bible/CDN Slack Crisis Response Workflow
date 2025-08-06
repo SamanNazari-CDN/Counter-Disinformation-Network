@@ -1,0 +1,75 @@
+At times of crises or major events, Alliance4Europe or CDN Member organisations can activate the Slack Crisis Response Workflow. The channels used in the crisis response workflow can also be used during calmer times for coordination purposes. 
+
+To participate, you don’t necessarily have to engage in all parts of the workflow. The workflow is modular and can benefit participants in different ways depending on their needs. 
+
+Piller One: Contextual Information:
+To shape our monitoring and understanding of the context we are analysing, we need contextual knowledge of what is going on in the countries we monitor.
+
+Such information can include upcoming demonstrations/events and political debates, breaking news stories, public opinion, and political speeches. Anything that can be used or targeted by an IO campaign.
+
+When you find any such relevant information, please share it in the #4-1-news channel. 
+
+Piller Two: Monitoring:
+Organisations that already have their own monitoring can of course use said monitoring.
+Organisations that do not have monitoring in place can contact Alliance4Europe to request access to their monitoring tool. Alliance4Europe cannot guarantee that they can provide access to their tool. If you get access, you are not allowed to download datasets from the tool without our permission. 
+
+Strategic monitoring of the information space is a practice that relies on monitoring tools to collect social media posts from public pages on specific topics or from the specific channels we are interested in protecting or understanding more about. It can also entail manually monitoring keywords or channels. 
+
+In the Monitoring channel #4-0-monitoring, participants can collaboratively develop queries and account lists. 
+
+Piller Three: Flagging or Lead:
+Through monitoring or being tipped off by our partners, we can identify cases.
+
+An analyst has three options:
+1 - flagging the case and claiming it as their own, indicating they are on top of things and want to avoid duplication of work;
+
+2 - flagging the case and inviting others to collaborate with them, enabling others to share their knowledge and investigative capabilities - usually leading to a co-publication;
+3 - generating a lead on a case they don't have time to work on, allowing others to pick it up. Leads should be turned into type two flaggings, as they are by default a collaborative effort between the lead generator and the analyst. The lead generator should get credited for their finding if they wish;
+
+To flag a case or lead, use the channels #4-2-flagging and #4-3-leads.
+As a case is flagged, participants may not share that flagging outside the CDN without the consent of the flagger.
+
+If you wish to collaborate with others on a case, feel free to create a separate chat. 
+Please also add your ongoing investigation to the “Ongoing Cases Tracker” in the flagging channel.
+
+
+
+Piller Four: Analysis:
+There are primarily 5 different types of analysis that are the focus of the CDN crisis response structure:
+
+1. Incident analysis; 
+An incident alert is based on analysing the manipulative tactics and techniques (behaviours and methods) employed to manipulate a target audience.
+
+The manipulative behaviour and methods are put first, while the narrative comes second. An incident alert follows the amplification of a specific piece of content or an attack on a specific target to document the behaviours and methods employed.
+
+By understanding these behaviours and methods, we can shape countermeasures that can remedy the systemic weakness that the influence operation is exploiting.
+
+2. Coordinated Inauthentic Behaviour (CIB) network analysis;
+A CIB network analysis focuses on mapping large clusters of accounts and pages on social media that in an inauthentic way post, amplify, or distribute content. This type of analysis focuses first on identifying a network, which can be done through behaviours and narratives.
+
+3. Narrative analysis;
+A narrative analysis's first objective is to understand a specific narrative. The narrative is in focus, not the manipulative behaviour.
+
+4. Fact-checks;
+EFCSN standards for fact-checking.
+
+5. Attributions;
+An attribution ties a specific channel to a threat actor using evidence of editorial control, financial ties, personal ties, technical indicators, and systematic behaviours. 
+
+Pillar Five: Templates:
+
+When the analysis is done, participants can either write a report or article about their findings or fill out a one to two-page alert template. Regardless of the type of case, this will be the same template. The template is modular, allowing participants to fill out different sections depending on what type of data they have. Even if the participants opt to write a full report, they can use the template as a standardised way to provide an executive summary that can also be used for machine-readable case aggregation. 
+
+These are not the only types of analysis that can be done. Algorithmic research, systemic risk analysis, and the evaluation of LLMs are also done by the members of the CDN.
+
+All types of collaborations are welcome and encouraged!
+
+Piller Six: Sending Alerts:
+When a template is finished, participants can submit it to the coordinator, who will send it out as an alert to the CDN Responders mailing list.
+
+The responder list contains government officials, regulators, policymakers, journalists, civil society actors working on the ground, and strategic communicators. 
+
+
+Piller Seven: Response:
+
+In specific cases, when members of the network find a larger phenomenon, we can also collaborate on advocacy, communication, and similar responses via the channel called #4-4-response. 
