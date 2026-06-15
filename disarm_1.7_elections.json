@@ -1,0 +1,518 @@
+{
+	"name": "DISARM 1.7 Elections",
+	"versions": {
+		"attack": "1",
+		"navigator": "4.8.2",
+		"layer": "4.4"
+	},
+	"domain": "DISARM",
+	"description": "This is a DISARM 1.7 slimmed version adapted for TTPs that can appear during elections. \n\nIt was developed by Saman Nazari, Alliance4Europe, as part of the Linnaeus University Fojo project Valkollen. ",
+	"filters": {
+		"platforms": [
+			"Windows",
+			"Linux",
+			"Mac"
+		]
+	},
+	"sorting": 0,
+	"layout": {
+		"layout": "side",
+		"aggregateFunction": "average",
+		"showID": false,
+		"showName": true,
+		"showAggregateScores": false,
+		"countUnscored": false
+	},
+	"hideDisabled": true,
+	"techniques": [
+		{
+			"techniqueID": "T0002",
+			"tactic": "plan-objectives",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0059",
+			"tactic": "persist-in-the-information-environment",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0060",
+			"tactic": "persist-in-the-information-environment",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072.001",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072.002",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072.003",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072.004",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0072.005",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0073",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0074",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0074.001",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0074.002",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0074.003",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0074.004",
+			"tactic": "plan-strategy",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080.001",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080.002",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080.003",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080.004",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0080.005",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.001",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.002",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.003",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.004",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.005",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.006",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.007",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0081.008",
+			"tactic": "target-audience-analysis",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0107",
+			"tactic": "select-channels-and-affordances",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0109",
+			"tactic": "select-channels-and-affordances",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0118",
+			"tactic": "maximise-exposure",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0132",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0132.001",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0132.002",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0132.003",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133.001",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133.002",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133.003",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133.004",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0133.005",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0134",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0134.001",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T0134.002",
+			"tactic": "assess-effectiveness",
+			"color": "",
+			"comment": "",
+			"enabled": false,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		}
+	],
+	"gradient": {
+		"colors": [
+			"#ff6666ff",
+			"#ffe766ff",
+			"#8ec843ff"
+		],
+		"minValue": 0,
+		"maxValue": 100
+	},
+	"legendItems": [],
+	"metadata": [],
+	"links": [
+		{
+			"label": "Alliance4Europe",
+			"url": "https://alliance4europe.eu/"
+		},
+		{
+			"label": "Saman's LinkedIn",
+			"url": "https://www.linkedin.com/in/saman-nazari-25b742a1/"
+		},
+		{
+			"label": "Valkollen ",
+			"url": "https://valkollen.se/"
+		}
+	],
+	"showTacticRowBackground": false,
+	"tacticRowBackground": "#dddddd",
+	"selectTechniquesAcrossTactics": true,
+	"selectSubtechniquesWithParent": false
+}
